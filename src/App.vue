@@ -1,7 +1,7 @@
 <template>
 	<h1>ToDo App</h1>
 	<form @submit.prevent="addTodo()">
-		<label>New ToDo </label>
+		<label>todo179 </label>
 		<input
 			v-model="newTodo"
 			name="newTodo"
