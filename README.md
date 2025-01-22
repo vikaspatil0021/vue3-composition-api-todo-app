@@ -5,4 +5,3 @@
 ### Demo: [https://todo-app.burakgur.vercel.app/](https://todo-app.burakgur.vercel.app/)
 
 ## Project setup
-
