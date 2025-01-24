@@ -1,7 +1,7 @@
 <template>
-	<h1>ToDo App</h1>
+	<h1>The ToDo App</h1>
 	<form @submit.prevent="addTodo()">
-		<label>Naya ToDo</label>
+		<label>Navin ToDo</label>
 		<input
 			v-model="newTodo"
 			name="newTodo"
